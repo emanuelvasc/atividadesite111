@@ -1,4 +1,4 @@
-import '../src/CSS/carrossel.css';
+import '../CSS/carrossel.css';
 
 function Carrossel() {
     return(
