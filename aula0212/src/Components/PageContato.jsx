@@ -1,4 +1,4 @@
-import "/src/CSS/pagecontato.css";
+import "../src/CSS/pagecontato.css";
 
 function PageContato() {
   return (

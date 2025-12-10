@@ -1,4 +1,4 @@
-import '/src/CSS/header.css';
+import '../src/CSS/header.css';
 function Header () {
     return (
           <header className="header-style">

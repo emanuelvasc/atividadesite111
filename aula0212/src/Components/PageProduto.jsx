@@ -1,6 +1,6 @@
 import React from 'react';
 import CardProduto from './CardProduto.jsx';  
-import "/src/CSS/pageprodutos.css";
+import "../src/CSS/pageprodutos.css";
 
 function PageProduto() {                     
   return (

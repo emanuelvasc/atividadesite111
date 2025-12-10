@@ -1,4 +1,4 @@
-import "/src/CSS/cardproduto.css";
+import "../src/CSS/cardproduto.css";
 
 function CardProduto () {
     return (
