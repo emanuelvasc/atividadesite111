@@ -1,7 +1,7 @@
 import "../src/CSS/global.css"
 import Header from "../src/Components/Header.jsx";
 import PageContato from "../src/Components/PageContato.jsx"
-import Pageinicio from "../src/Components/Pageinicio.jsx";
+import PageInicio from "./Components/PageInicio.jsx";
 import PageProduto from "../src/Components/PageProduto.jsx";  
 import PageSobre from "../src/Components/PageSobre.jsx";      
 import Footer from "../src/Components/Footer.jsx";
@@ -17,7 +17,7 @@ function App () {
       <Header />
     </header>
     <main>
-     <Pageinicio />
+     <PageInicio />
      <PageProduto />
      <PageSobre />
      <PageContato />
